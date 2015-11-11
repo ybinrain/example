@@ -1,8 +1,10 @@
 package main
-
-import "fmt"
+import(
+    "fmt"
+    "github.com/ybinrain/example/stringutil"
+)
 
 
 func main() {
-    fmt.Printf("test\n")
+    fmt.Printf(stringutil.Reverse("\nJust a test!"))
 }
