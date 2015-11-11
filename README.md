@@ -1,2 +1,2 @@
 # example
-go example projects
+go example projects.
